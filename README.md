@@ -24,27 +24,15 @@ Siga os passos abaixo para rodar o app no seu ambiente local:
    cd receita-do-que-tem
 📦 Instale as dependências:
 
-bash
-Copiar
-Editar
 npm install
 🌍 Instale a CLI do Expo globalmente:
 
-bash
-Copiar
-Editar
 npm install expo-cli --global
 🛠️ Construa o projeto para web:
 
-bash
-Copiar
-Editar
 npm run build:web
 ▶️ Inicie o aplicativo:
 
-bash
-Copiar
-Editar
 npx expo start
 🧪 Tecnologias usadas
 📱 React Native + Expo
